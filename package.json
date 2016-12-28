@@ -1,0 +1,13 @@
+{
+	"name": "mineflayer-gomix-example",
+	"version": "1.0.0",
+	"description": "Mineflayer example bot for Gomix.com",
+	"repository": "https://github.com/leonardosnt/mineflayer-gomix-example",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "leonardosnt <leonardosnt@outlook.com>",
+	"dependencies": {
+		"mineflayer": "^1.8.0"
+	}
+}
