@@ -8,6 +8,6 @@
 	},
 	"author": "leonardosnt <leonardosnt@outlook.com>",
 	"dependencies": {
-		"mineflayer": "^1.8.0"
+		"mineflayer": "^2.1.1"
 	}
 }
