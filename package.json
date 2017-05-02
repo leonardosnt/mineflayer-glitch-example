@@ -1,8 +1,8 @@
 {
-	"name": "mineflayer-gomix-example",
+	"name": "mineflayer-glitch-example",
 	"version": "1.0.0",
-	"description": "Mineflayer example bot for Gomix.com",
-	"repository": "https://github.com/leonardosnt/mineflayer-gomix-example",
+	"description": "Mineflayer example bot for Glitch.com",
+	"repository": "https://github.com/leonardosnt/mineflayer-glitch-example",
 	"scripts": {
 		"start": "node index.js"
 	},

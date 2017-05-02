@@ -1,8 +1,8 @@
-# Mineflayer example bot for Gomix.com
+# Mineflayer example bot for Glitch.com
 
 #### Remixing this project.
-- Access [https://gomix.com](https://gomix.com), login with your github account.
-- Access [https://gomix.com/#!/project/mineflayer](https://gomix.com/#!/project/mineflayer)
+- Access [https://glitch.com](https://glitch.com), login with your github account.
+- Access [https://glitch.com/#!/project/mineflayer](https://glitch.com/#!/project/mineflayer)
 - Click in 'Remix this'
 
 #### See also
